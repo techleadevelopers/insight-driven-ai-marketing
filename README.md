@@ -1,4 +1,3 @@
-
 <img src="https://img.icons8.com/ios-filled/100/artificial-intelligence.png" alt="InsightAI SaaS Logo" width="160"/>
 
 </p>
@@ -204,3 +203,6 @@ Abra um Pull Request para avaliação.
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
+
+
+Desenvolvido por: Paulo Silas de Campos Filho - https://github.com/techleadevelopers
