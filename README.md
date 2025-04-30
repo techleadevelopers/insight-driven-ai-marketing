@@ -1,10 +1,12 @@
+<p align="center">
+
 <img src="https://img.icons8.com/ios-filled/100/artificial-intelligence.png" alt="InsightAI SaaS Logo" width="160"/>
 
 </p>
 
 <p align="center">
 
-Plataforma SaaS de última geração para análise preditiva e otimização de marketing impulsionada por Inteligência Artificial de nível global. Transforme seus dados em insights acionáveis, otimize campanhas em escala e alcance resultados superiores no mercado global.
+<b>Plataforma SaaS de última geração para análise preditiva e otimização de marketing impulsionada por Inteligência Artificial de nível global.</b> Transforme seus dados em insights acionáveis, otimize campanhas em escala e alcance resultados superiores no mercado global.
 
 </p>
 
@@ -35,50 +37,71 @@ Plataforma SaaS de última geração para análise preditiva e otimização de m
 </p>
 
 📚 Sumário
+Funcionalidades Principais
+Tecnologias Chave
+Estrutura de Pastas
+Como Começar
+Contribuição
+Licença
 🎯 Funcionalidades Principais
-🛠️ Tecnologias Chave
-📂 Estrutura de Pastas
-🚀 Como Começar
-🤝 Contribuição
-📄 Licença
-🎯 Funcionalidades Principais
-InsightAI SaaS oferece um conjunto abrangente de funcionalidades para impulsionar suas estratégias de marketing com inteligência artificial de ponta:
+A InsightAI SaaS oferece um conjunto abrangente de funcionalidades para impulsionar suas estratégias de marketing com inteligência artificial de ponta:
 
-Análise e Insights de Marketing Unificados:
-
+Análise e Insights de Marketing Unificados
 Conecte e centralize dados de Google Analytics, plataformas de anúncios (Google Ads, Facebook Ads, etc.), redes sociais e Search Console em um só lugar.
 Painéis de desempenho intuitivos e altamente personalizáveis com visualizações avançadas de métricas chave.
 Identificação proativa de tendências de mercado, padrões de comportamento do consumidor e gargalos no funil de conversão, tudo impulsionado por IA global.
 Geração de relatórios dinâmicos e detalhados com opções de personalização avançadas para uma compreensão profunda do desempenho.
 <p align="center"> <img src="https://example.com/imagem-de-analise-de-marketing.png" alt="Análise de Marketing" width="600"/> </p>
-Otimização de Tráfego Inteligente (Foco em Tráfego Pago):
 
+Otimização de Tráfego Inteligente (Foco em Tráfego Pago)
 Monitoramento em tempo real e análise preditiva de métricas cruciais de campanhas pagas (custo, cliques, impressões, CTR, CPC, CPA, conversões, ROI/ROAS).
 Sugestões de palavras-chave de alta performance (positivas e negativas) geradas por IA com análise da concorrência global e tendências de busca.
 Otimização dinâmica e autônoma de lances para maximizar o ROI/ROAS em campanhas globais, ajustando-se às condições do mercado em tempo real.
 <p align="center"> <img src="https://example.com/imagem-de-otimizacao-de-trafego.png" alt="Otimização de Tráfego" width="600"/> </p>
-Insights e Recomendações Poderosas Gerados por IA de Nível Global:
 
+Insights e Recomendações Poderosas Gerados por IA de Nível Global
 Identificação inteligente e automática de campanhas e canais com desempenho superior e inferior em escala global, com análise comparativa avançada.
 Sugestões otimizadas de alocação de orçamento entre diferentes campanhas e canais, considerando o desempenho global, sazonalidade e previsões de ROI.
 <p align="center"> <img src="https://example.com/imagem-de-insights-e-recomendacoes.png" alt="Insights e Recomendações" width="600"/> </p>
-Arquitetura de Backend Robusta e Escalável:
 
+Arquitetura de Backend Robusta e Escalável
 Implementação de uma arquitetura de microsserviços modular e altamente escalável para garantir resiliência, desempenho otimizado e facilidade de manutenção em um ambiente global de alta demanda.
 <p align="center"> <img src="https://example.com/imagem-de-arquitetura-de-backend.png" alt="Arquitetura de Backend" width="600"/> </p>
-🛠️ Tecnologias Chave
-Frontend: React.js, TypeScript
-Backend: Python (FastAPI, Django), Node.js (Express.js)
-Banco de Dados: PostgreSQL, MongoDB, Cassandra, Redshift, BigQuery
-IA/ML: TensorFlow, PyTorch, scikit-learn, NLTK, spaCy
-Filas de Mensagens: RabbitMQ, Kafka
-Caching: Redis, Memcached
-Infraestrutura: AWS, Google Cloud, Azure
-UI/UX: Design de Interface Empresarial Moderna
-📂 Estrutura de Pastas
-bash
 
-Copiar
+🛠️ Tecnologias Chave
+Frontend
+React.js
+TypeScript
+Backend
+Python (FastAPI, Django)
+Node.js (Express.js)
+Banco de Dados
+PostgreSQL
+MongoDB
+Cassandra
+Redshift
+BigQuery
+IA/ML
+TensorFlow
+PyTorch
+scikit-learn
+NLTK
+spaCy
+Filas de Mensagens
+RabbitMQ
+Kafka
+Caching
+Redis
+Memcached
+Infraestrutura
+AWS
+Google Cloud
+Azure
+UI/UX
+Design de Interface Empresarial Moderna
+
+
+📂 Estrutura de Pastas
 frontend/
 ├── public/
 │   ├── index.html
@@ -161,17 +184,20 @@ frontend/
 ├── README.md
 └── vite.config.js
 
+
 🚀 Como Começar
 
 Clone o repositório:
 
 git clone https://github.com/techleadevelopers/insight-driven-ai-marketing.git
 cd insight-driven-ai-marketing
-Configure o backend: Siga as instruções detalhadas no diretório backend/README.md para configurar as variáveis de ambiente, dependências e executar os serviços de backend.
-Configure o frontend: Consulte o frontend/README.md para obter instruções sobre como instalar as dependências do frontend e iniciar a aplicação.
+
+Configure o backend:
+Siga as instruções detalhadas no diretório backend/README.md para configurar as variáveis de ambiente, dependências e executar os serviços de backend.
+
+Configure o frontend:
+Consulte o frontend/README.md para obter instruções sobre como instalar as dependências do frontend e iniciar a aplicação.
 Exemplo de configuração de variáveis de ambiente:
-
-
 
 # .env
 DB_HOST=localhost
@@ -180,18 +206,14 @@ DB_USER=myuser
 DB_PASSWORD=mypassword
 DB_NAME=mydb
 
-
 Exemplo de execução do backend:
-
 # backend/
 python manage.py runserver
-
-
 Exemplo de execução do frontend:
+
 
 # frontend/
 npm start
-
 🤝 Contribuição
 A colaboração é fundamental para o crescimento da InsightAI SaaS. Se você possui expertise em desenvolvimento, ciência de dados, design de UI/UX ou marketing e deseja contribuir, siga estas diretrizes:
 
@@ -200,9 +222,7 @@ Crie uma branch para sua feature (git checkout -b feature/sua-feature).
 Faça seus commits (git commit -am 'Adiciona nova feature').
 Envie para a branch (git push origin feature/sua-feature).
 Abra um Pull Request para avaliação.
-
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
-
 
 Desenvolvido por: Paulo Silas de Campos Filho - https://github.com/techleadevelopers
